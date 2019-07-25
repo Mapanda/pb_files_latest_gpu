@@ -1,0 +1,2 @@
+model_checkpoint_path: "keras_tensor_lite.chkp"
+all_model_checkpoint_paths: "keras_tensor_lite.chkp"
